@@ -1,0 +1,5 @@
+.App {
+  min-height: 100vh;
+  background: linear-gradient(135deg, #1a1c20 0%, #2d3748 100%);
+  padding: 20px;
+}
